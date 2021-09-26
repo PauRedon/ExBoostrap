@@ -1,0 +1,1 @@
+<?php header( 'Location: /ExBootstrap/startbootstrap-agency/dist/index.html' ) ;  ?>
